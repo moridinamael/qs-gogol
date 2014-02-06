@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>A5808E99-0FA3-44E7-9DB6-ED5B833E1C7C</string>
+	<string>75A1D2B9-C642-40C5-9F82-5A3EE7915590</string>
 	<key>IDESourceControlProjectName</key>
 	<string>qs-gogol-ios</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>C418421F-BD89-463F-8C25-FB3F971139F9</string>
 			<key>IDESourceControlWCCName</key>
-			<string>qs-gogol</string>
+			<string>qs-gogol-ios</string>
 		</dict>
 	</array>
 </dict>
