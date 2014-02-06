@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A5808E99-0FA3-44E7-9DB6-ED5B833E1C7C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>qs-gogol-ios</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C418421F-BD89-463F-8C25-FB3F971139F9</key>
+		<string>ssh://github.com/moridinamael/qs-gogol.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/qs-gogol-ios/qs-gogol-ios.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C418421F-BD89-463F-8C25-FB3F971139F9</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/moridinamael/qs-gogol.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C418421F-BD89-463F-8C25-FB3F971139F9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C418421F-BD89-463F-8C25-FB3F971139F9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>qs-gogol</string>
+		</dict>
+	</array>
+</dict>
+</plist>
