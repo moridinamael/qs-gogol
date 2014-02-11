@@ -18,6 +18,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    // This is accessed by clicking the first button.
 }
 
 - (void)didReceiveMemoryWarning
