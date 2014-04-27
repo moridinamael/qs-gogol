@@ -26,5 +26,6 @@ Member variables.
 Declare object, everything about classes.
 Added class methods.
 Passed a message and logged a string literal representation of object.
+Class method private variables.
 
 http://codecombat.com
