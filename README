@@ -27,5 +27,6 @@ Declare object, everything about classes.
 Added class methods.
 Passed a message and logged a string literal representation of object.
 Class method private variables.
+Returning typed variables from member functions.
 
 http://codecombat.com
