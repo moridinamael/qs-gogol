@@ -30,6 +30,6 @@ Class method private variables.
 Returning typed variables from member functions.
 Pass a message.
 Pass several message arguments and log results.
-
+Passed NSNumber argument.  Note that you log an NSNumber with @"Whatever %@" syntax."
 
 http://codecombat.com
