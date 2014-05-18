@@ -33,5 +33,6 @@ Pass several message arguments and log results.
 Passed NSNumber argument.  Note that you log an NSNumber with @"Whatever %@" syntax."
 Using object "self" variables.
 Using object private variables elsewhere.
+Passing an argument to a method which ... not really a new thing.
 
 http://codecombat.com
