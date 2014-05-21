@@ -34,5 +34,6 @@ Passed NSNumber argument.  Note that you log an NSNumber with @"Whatever %@" syn
 Using object "self" variables.
 Using object private variables elsewhere.
 Passing an argument to a method which ... not really a new thing.
+Using the (readonly) specification and the _ specification (Objective-C's version of private member variables.)
 
 http://codecombat.com
