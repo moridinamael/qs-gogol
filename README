@@ -36,5 +36,6 @@ Using object private variables elsewhere.
 Passing an argument to a method which ... not really a new thing.
 Using the (readonly) specification and the _ specification (Objective-C's version of private member variables.)
 Using class initialization.
+Totally private variables.
 
 http://codecombat.com
