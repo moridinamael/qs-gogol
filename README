@@ -38,5 +38,7 @@ Using the (readonly) specification and the _ specification (Objective-C's versio
 Using class initialization.
 Totally private variables.
 Using the copy message.
+Check that an object will respond to a message.
+NSCopying.
 
 http://codecombat.com
