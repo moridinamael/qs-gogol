@@ -40,5 +40,6 @@ Totally private variables.
 Using the copy message.
 Check that an object will respond to a message.
 NSCopying.
+Implement copyWithZone.
 
 http://codecombat.com
