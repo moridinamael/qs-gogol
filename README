@@ -42,5 +42,6 @@ Check that an object will respond to a message.
 NSCopying.
 Implement copyWithZone.
 Using the nil operator.
+Initializer ... ?
 
 http://codecombat.com
